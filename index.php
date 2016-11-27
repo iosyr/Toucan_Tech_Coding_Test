@@ -1,6 +1,6 @@
 <html>
 	<header>
-		<title>Code Test</title>
+		<title>Coding Test</title>
 	</header>
 	<style type="text/css">
 		body {
